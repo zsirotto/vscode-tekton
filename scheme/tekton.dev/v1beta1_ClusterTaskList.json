@@ -1213,7 +1213,7 @@
     "Quantity": {
       "properties": {},
       "additionalProperties": false,
-      "type": "object"
+      "type": "string"
     },
     "QuobyteVolumeSource": {
       "required": [

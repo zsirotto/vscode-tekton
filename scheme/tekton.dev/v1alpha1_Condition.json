@@ -530,7 +530,7 @@
     "Quantity": {
       "properties": {},
       "additionalProperties": false,
-      "type": "object"
+      "type": "string"
     },
     "ResourceDeclaration": {
       "required": [
